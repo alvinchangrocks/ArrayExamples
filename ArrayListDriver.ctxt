@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=ArrayListDriver
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ ArrayList\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=list
+comment1.target=void\ LIST1(java.util.ArrayList)
+comment2.params=list
+comment2.target=void\ LIST2(java.util.ArrayList)
+comment3.params=list
+comment3.target=void\ LIST3(java.util.ArrayList)
+comment4.params=list
+comment4.target=void\ LIST4(java.util.ArrayList)
+comment5.params=list
+comment5.target=void\ LIST5(java.util.ArrayList)
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7

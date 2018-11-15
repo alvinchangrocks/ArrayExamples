@@ -244,7 +244,7 @@ class Main
 
          System.out.println("New ar4");
          for (int i=0 ; i<ar4.length ; i++);
-             System.out.println(ar4[i]);
+           
         
         
         /*
